@@ -4,6 +4,10 @@
 
 ![Screenshot](./screenshot.png)
 
+## NOTE
+
+Currently Fleet is in my personal opinion unusable. No plugins, really slow to load and a bunch of bugs. This is the reason why this theme is a WIP. Since at the moment I can not and refuse to use Fleet. Concept is cool (Jetbrains makes the best IDEs in my opinion) but the product is utterly useless right now (Oct 2023)
+
 ## Install
 
 All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/fleet).
